@@ -1,0 +1,15 @@
+
+.game-status {
+  margin: 5px;
+  text-align: center;
+  font-family: "Arial";
+  font-size: 18px;
+}
+
+.board {
+  background-image: linear-gradient(#3ca3ff, #005eb3);
+  width: 800px;
+  margin: auto;
+  padding: 8px;
+}
+

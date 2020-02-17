@@ -1,0 +1,17 @@
+.cell {
+  width: calc(800px / 7 - 8px);
+  height: calc(800px / 7 - 8px);
+  background: white;
+  display: inline-block;
+  box-sizing: border-box;
+  border-radius: 50%;
+  margin: 4px;
+}
+
+.player-color {
+  background-image: linear-gradient(#ffffc9, #cece00);
+}
+
+.opponent-color {
+  background-image: linear-gradient(#fb7272, #da0000);
+}
